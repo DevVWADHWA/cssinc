@@ -87,6 +87,8 @@ p {
 #cloud4 {
     position: absolute;
     width: 20%;
+    top: 400px;
+    right: 200px;
 }
 
 #darthv {
