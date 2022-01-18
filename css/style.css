@@ -86,10 +86,10 @@ p {
 
 #darthv {
     float: right;
-    margin-right: 30px;
+    margin-left: 30px;
 }
 
 #matrix {
     float: left;
-    margin-left: 30px;
+    margin-right: 30px;
 }
